@@ -5,11 +5,16 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "build": "tsc && vite build",
+    "lint": "ESLINT_USE_FLAT_CONFIG=false eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "test": "vitest",
+    "config": "tsx ./src/schemas/m2cms.ts ./public/config.yml ./src/schemas/models"
   },
   "dependencies": {
+    "@vitejs/plugin-react-swc": "^3.7.0",
     "airtable": "^0.12.2",
     "firebase": "^10.13.1",
     "maplibre-gl": "^4.7.0",
