@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d1",
+        "Nombre": "Comisaría 01",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4211567
+          , -64.1768987        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d2",
+        "Nombre": "Comisaría 02",
+        "Dependencia": "Ministerio Público Fiscal Poder Judicial de Córdoba Unidad Judicial No.22",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": "Ministerio Público Fiscal Poder Judicial de Córdoba Unidad Judicial No.22",
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4047279
+          , -64.2343491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d3",
+        "Nombre": "Comisaría 03",
+        "Dependencia": "-Unidad Judicial 2",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": "-Unidad Judicial 2",
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4072588
+          , -64.2009616        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d4",
+        "Nombre": "Comisaría 04",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4341676
+          , -64.1727379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d5",
+        "Nombre": "Comisaría 05",
+        "Dependencia": "Unidad Judicial 9",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": "Unidad Judicial 9",
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4223064
+          , -64.148612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d6",
+        "Nombre": "Comisaría 06",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4131421
+          , -64.1641957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d7",
+        "Nombre": "Comisaría 07",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3932594,
+          -64.185546
+        ]
+      }
+    }
+  ]
+}
