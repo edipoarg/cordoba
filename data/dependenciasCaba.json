@@ -26,7 +26,7 @@
         "type": "Point",
         "coordinates": [
           -31.4211567
-          , -64.1768987        ]
+          , -64.1768987 ]
       }
     },
     {
@@ -163,6 +163,924 @@
         "coordinates": [
           -31.3932594,
           -64.185546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d8",
+        "Nombre": "Comisaría 08",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3726785
+          , -64.1383445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d9",
+        "Nombre": "Comisaría 09",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3941065,
+          -64.2022777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d10",
+        "Nombre": "Comisaría 10",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": "",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iCvCwIEw0w39XQ_lpdHgHxQpUg0vruHdu5RW8jVzKXm2Xd89I-CJm4WCrp6FRMVQUZ7c6TSPZY9nfA0ebXT0PKZVQDJdIjLAUr0ZJWFQrbAe2VSoQ3Od7GVOF7vWPgtliwrK4ZBOFyQgTY6gseTJn931oVcLJVQDArlyh_BzjxXPziyv3ok1yxeuElb8ip374dVeaY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4344085,
+          -64.1981803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d11",
+        "Nombre": "Comisaría 11",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": "",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iATICLjpWc5EUgaYUu9wZEIX-quJQULzxshyqP92B3gRYCjc5RyPS3z4cQWfm_ga9S8XE_eNr33_e2KbMOUY1GbIDlOT76Gnxp8j9mQ1AyNJ4YCujj9gbh3O66o8Wu4G9a2EU-lbYyCijCTFCeklw6qX1-_wrm0tixgDNr3CeXjd1jieqfGW3eWnONrl0tWtMfDv54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4063158,
+          -64.2254067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d12",
+        "Nombre": "Comisaría 12",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.444495,
+          -64.1661134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d13",
+        "Nombre": "Comisaría 13",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": "",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iDr5JjqQlyNOWV7vLsLBtc7pLTvFMba11LLSH83z-3VVjacZl5c0P_1WuLfDX95TqaI3F9mJJ38hqlywVKuB9iDOGPftElEsy9Wzu-xkAH2RF1bO0YIdQ6JSaRoXnm0dKbC_OCzjTDQlj5Vff4zbK24NJ5nqHRROyTzEU8avi4O3MNJ5vk2RaivwaF7bLx_BynaJl4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3863973,
+          -64.1625434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d14",
+        "Nombre": "Comisaría 14",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3450287,
+          -64.2213563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d15",
+        "Nombre": "Comisaría 15",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3738951,
+          -64.234542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d16",
+        "Nombre": "Comisaría 16",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": "",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iC48PQQpNh3L07oTxL2fUGHWdNjPw8fsxtr2qMkHhiqZb56z-lGn-k29Oces23BrmZa6Jh7dw1JrMlSKeoM2fTEQZzJLLJO_Biobfn36cgAPf0VCAFcM95Fdplpb9u0KcNE_qhskHXWAUSimFJDToXLflOly0um6OZS7lrd1giwMv0gZ_3Y2xuPvO79DCd2p06Q8F4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4637927,
+          -64.1114527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d17",
+        "Nombre": "Comisaría 17",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": "",
+        "gx_media_links": "https://mymaps.usercontent.google.com/hostedimage/m/*/3APLA8iC-rjEcpMZ5whaWBGNQZtFHcju87-rqsTNPjk9Nlo30kzFcLNLauHbo-W3T9q3jDCqDLYBlQ4_hk8olKwDwZ_IHjTxNWnN3nn9RmVIAqPe_9uhl0qqE_bohThAZoFDOOrIvll2A0f3IHhVzkjiZeqLBVlmW16rHwUgADMg0nXo-RBlcQsWqxmhjM0mvO3hAtxrLo5E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3378447,
+          -64.1758364 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d18",
+        "Nombre": "Comisaria 18",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4715848,
+          -64.2205167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d19",
+        "Nombre": "Comisaria 19",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4262622,
+          -64.2213857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d20",
+        "Nombre": "Comisaria 20",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4370852,
+          -64.232018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d21",
+        "Nombre": "Comisaria 21",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4383049,
+          -64.125081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d22",
+        "Nombre": "Comisaria 22",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3624642,
+          -64.1956955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d23",
+        "Nombre": "Comisaria 23, Villa Allende, Cordoba",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.2992898,
+          -64.2905545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d24",
+        "Nombre": "Comisaria 24 La Calera, Córdoba",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3384999,
+          -64.335444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d25",
+        "Nombre": "'Comisaria 25, Saldan, Cordoba'",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3157233,
+          -64.3126747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d27",
+        "Nombre": "Comisaría 27 (11 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.3950864, -64.2162788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d29",
+        "Nombre": "Comisaría 29 (19 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.4153419, -64.2595656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d30",
+        "Nombre": "Comisaría 30 (18 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.4842872, -64.2115447 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d31",
+        "Nombre": "Comisaría 31 (4 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.4733142, -64.1923669 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d32",
+        "Nombre": "Comisaría 32 (5 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.4109972, -64.1395327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d33",
+        "Nombre": "Comisaria 33 (Ex 16 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.4421693, -64.143192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d34",
+        "Nombre": "Comisaria 34 (21 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.4638888, -64.0909794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d35",
+        "Nombre": "Comisaria 35 (6 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.3902886, -64.103901 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d36",
+        "Nombre": "Comisaria 36 (8 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.368909, -64.1443902 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d37",
+        "Nombre": "Comisaria 37 (13 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.3634285, -64.1554195 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d38",
+        "Nombre": "Comisaria 38 (17 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": "https://goo.gl/maps/TubJ7BQphm62",
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.3113741, -64.1763112 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d39",
+        "Nombre": "Comisaria 39 (14 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.34381, -64.2679569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d40",
+        "Nombre": "Comisaria 40 (15 bis)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.3694449, -64.2115822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d41",
+        "Nombre": "Comisaria 41 (Terminal de Omnibus)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.4246532, -64.1732025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d42",
+        "Nombre": "Comisaria 42 (O. Angelelli)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-31.5055045, -64.1942096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d43",
+        "Nombre": "Comisaria 43 (Ciudad Evita)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -31.4496848, -64.1103798]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d44",
+        "Nombre": "Comisaria 44 (C. de Mi Esperanza)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.4029323,
+          -64.0637764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d45",
+        "Nombre": "Comisaria 45 (Los Cuartetos)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3548143, 
+          -64.1316873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d46",
+        "Nombre": "Comisaria 46 (A Lourdes)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3306395,
+          -64.2563778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d47",
+        "Nombre": "Comisaría 47 (Sol Naciente)",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": "https://goo.gl/maps/wKbT5285bHy",
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.3205488, -64.2430651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d48",
+        "Nombre": "Mendiolaza Cordoba",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.2659008, -64.3034452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d49",
+        "Nombre": "Rio Ceballos",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.170223, -64.3169528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d50",
+        "Nombre": "Comisaria Unquillo",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.2342544, -64.3167168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Contador": "d51",
+        "Nombre": "Comisaria Salsipuedes",
+        "Dependencia": "",
+        "Organismo": "",
+        "Partido": "",
+        "Dirección": null,
+        "Teléfono": null,
+        "Tel_Judicial": "",
+        "Tel_Jefe": "",
+        "Nombre_Anterior": "",
+        "coordinates": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.1380923,
+          -64.2971045
         ]
       }
     }
