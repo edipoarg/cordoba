@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features":[
+    {
+      "type": "Feature",
+      "properties": {
+    "Contador": "g1",
+    "Nombre": "Mauro Alejandro Bustos ASDFASDF",
+    "Edad": 31,
+    "Año": 2024,
+    "Fecha": "13/01/2024",
+    "cronica": " Mauro Alejandro Bustos, de 31 años, fue asesinado por el sargento Mariano Nelson Rossi de la Policía de Córdoba. Rossi disparó su pistola reglamentaria tras acusar a Bustos de robar una garrafa, sin que se haya probado judicialmente tal robo",
+    "Barrio": "Barrio Cuesta Colorada, Córdoba (casi en el límite entre La Calera y Córdoba)",
+    "Direccion": "Dellepiane y Escalada",
+    "link": "-",
+    "policia_involucrado": "Sargento Mariano Nelson Rossi. Imputado por 'homicidio agravado por el uso de arma de fuego'. Actualmente, Rossi se encuentra en libertad.",
+    "fuerza_involucrada": "Policia de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0, -0]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g2",
+    "Nombre": "Víctor Ariel Tortosa",
+    "Edad": 19,
+    "Año": 2024,
+    "Fecha": "4/02/2024",
+    "cronica": "Víctor Ariel Tortosa, de 19 años, fue asesinado por un policía de civil tras un supuesto intento de robo a mano armada. Tortosa fue encontrado muerto con un disparo en el tórax.",
+    "Barrio": "Lago Villa Dalcar, Río Cuarto, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": " Oficial de civil (nombre no trascendido). La causa está catalogada como 'homicidio agravado por uso de arma de fuego', pero el oficial se encuentra en libertad, bajo la justificación de' legítima defensa'.",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0, -0]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g3",
+    "Nombre": "Rodrigo Gómez y Emiliano Pastore",
+    "Edad": 17,
+    "Año": 2024,
+    "Fecha": "09/02/2024",
+    "cronica": "Rodrigo Gómez (17) y Emiliano Pastore (19) murieron tras una persecución policial luego de evadir un control. La persecución terminó con un choque contra un colectivo de la línea 'C1'. No hay imputados en este caso.",
+    "Barrio": "Barrio Marqués Sobremonte, Córdoba",
+    "Direccion": "-",
+    "link": "",
+    "policia_involucrado": "-",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0, -0]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g4",
+    "Nombre": "Abel Cortez",
+    "Edad": 26,
+    "Año": 2024,
+    "Fecha": "16/02/2024",
+    "cronica": "Abel Cortez, de 26 años, fue asesinado de un disparo en la espalda por el policía Boris Rivero, en un supuesto intento de robo de moto. El fiscal imputó al oficial por 'exceso en la legítima defensa'",
+    "Barrio": "Villa Adela, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "Oficial Boris Rivero. Imputado, pero en libertad.",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0, -0]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g5",
+    "Nombre": "Rodrigo Sebastián Arce",
+    "Edad": 19,
+    "Año": 2024,
+    "Fecha": "06/4/2024",
+    "cronica": "Rodrigo Sebastián Arce, de 19 años, fue asesinado por un policía retirado durante un supuesto intento de robo.",
+    "Barrio": "Barrio Ciudad de Mis Sueños, Córdoba",
+    "Direccion": "SIN DATOS",
+    "link": "",
+    "policia_involucrado": "Ex oficial (nombre no trascendido). Imputado y en libertad.",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [0, -0]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g6",
+    "Nombre": "Braian Quinteros",
+    "Edad": 17,
+    "Año": 2024,
+    "Fecha": "17/05/2024",
+    "cronica": "Braian Quinteros, de 17 años, fue asesinado por un oficial de la Policía de Córdoba fuera de servicio durante un intento de robo.",
+    "Barrio": "Barrio General Bustos, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "Oficial (nombre no trascendido). Imputado y en libertad.",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0, -0]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g7",
+    "Nombre": "Mariano Savioli",
+    "Edad": 17,
+    "Año": 2024,
+    "Fecha": "28/05/2024",
+    "cronica": "Una mujer policía iba en su auto por Ciudad Oculta. Un hombre se acercó a la puerta del acompañante con un arma de juguete. La oficial le disparó dos veces y lo mató. Luego argumentó que el hombre rompió el vidrio de la ventanilla con una piedra y metió medio cuerpo en el auto, pero los peritajes demostraron que el vidrio se rompió de adentro hacia afuera, con los disparos.",
+    "Barrio": "Barrio Primero de Mayo, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0, -0]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g8",
+    "Nombre": "Agustín García",
+    "Edad": 19,
+    "Año": 2024,
+    "Fecha": "18/07/2024",
+    "cronica": "Agustín García, de 19 años, fue asesinado por Emilio Andreani, sargento del Comando de la Segunda División Militar, durante un supuesto intento de robo. Andreani se encuentra en libertad.",
+    "Barrio": "Barrio Las Palmas, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "-",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-0, -0]
+  }
+}
+
+]}
+
+

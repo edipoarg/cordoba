@@ -1,0 +1,10 @@
+/* CabaMarker.css */
+
+.marker {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: #FF5733; /* Add a background color */
+
+}

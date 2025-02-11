@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+  font-family: "Ronnia Thin Condensed", sans-serif;
+}
+
+@font-face {
+  font-family: "Ronnia Heavy";
+  src: url("/fonts/RonniaHeavy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Ronnia Bold Condensed";
+  src: url("/fonts/RonniaCondBold.otf") format("woff");
+}
+
+@font-face {
+  font-family: "Ronnia Thin Condensed";
+  src: url("/fonts/RonniaCondLight.otf") format("woff2");
+}
+
+h1 {
+  font-family: "Ronnia Heavy", sans-serif;
+}
+
+h2 {
+  font-family: "Ronnia Bold Condensed", sans-serif;
+}
+
+h4{
+  font-family: "Ronnia Thin Condensed";
+}
+
+p {
+  font-family: "Ronnia Bold Condensed", sans-serif;
+}
+
+main {
+  background-color: #232128;
+  color: white;
+}
+
+/* Eliminar los estilos por defecto de ul */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Eliminar los estilos por defecto de li */
+li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Eliminar los estilos por defecto de a (enlaces) */
+a {
+  text-decoration: none;
+  /* Elimina la subrayado de los enlaces */
+  color: inherit;
+  /* Heredar el color del texto por defecto */
+}
