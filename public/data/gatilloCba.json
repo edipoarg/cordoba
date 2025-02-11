@@ -1,0 +1,587 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features":[
+    {
+      "type": "Feature",
+      "properties": {
+    "Contador": "g1",
+    "Nombre": "Mauro Alejandro Bustos",
+    "Edad": 31,
+    "Año": 2024,
+    "Fecha": "13/01/2024",
+    "cronica": " Mauro Alejandro Bustos, de 31 años, fue asesinado por el sargento Mariano Nelson Rossi de la Policía de Córdoba. Rossi disparó su pistola reglamentaria tras acusar a Bustos de robar una garrafa, sin que se haya probado judicialmente tal robo",
+    "Barrio": "Barrio Cuesta Colorada, Córdoba (casi en el límite entre La Calera y Córdoba)",
+    "Direccion": "Cuesta Colorada, Córdoba",
+    "link": "-",
+    "policia_involucrado": "Sargento Mariano Nelson Rossi. Imputado (en libertad) ",
+    "fuerza_involucrada": "Policia de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.31092, -31.36160]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g2",
+    "Nombre": "Víctor Ariel Tortosa",
+    "Edad": 19,
+    "Año": 2024,
+    "Fecha": "4/02/2024",
+    "cronica": "Víctor Ariel Tortosa, de 19 años, fue asesinado por un policía de civil tras un supuesto intento de robo a mano armada. Tortosa fue encontrado muerto con un disparo en el tórax.",
+    "Barrio": "Lago Villa Dalcar, Río Cuarto, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": " Oficial de civil (nombre no trascendido). La causa está catalogada como 'homicidio agravado por uso de arma de fuego', pero el oficial se encuentra en libertad, bajo la justificación de' legítima defensa'.",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.37599, -33.10765]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g3",
+    "Nombre": "Rodrigo Gómez",
+    "Edad": 17,
+    "Año": 2024,
+    "Fecha": "09/02/2024",
+    "cronica": "Rodrigo Gómez (17) y Emiliano Pastore (19) murieron tras una persecución policial luego de evadir un control. La persecución terminó con un choque contra un colectivo de la línea 'C1'. No hay imputados en este caso.",
+    "Barrio": "Barrio Marqués Sobremonte, Córdoba",
+    "Direccion": "-",
+    "link": "",
+    "policia_involucrado": "-",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.19949, -31.36720]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g3",
+    "Nombre": "Emiliano Pastore",
+    "Edad": 17,
+    "Año": 2024,
+    "Fecha": "09/02/2024",
+    "cronica": "Rodrigo Gómez (17) y Emiliano Pastore (19) murieron tras una persecución policial luego de evadir un control. La persecución terminó con un choque contra un colectivo de la línea 'C1'. No hay imputados en este caso.",
+    "Barrio": "Barrio Marqués Sobremonte, Córdoba",
+    "Direccion": "-",
+    "link": "",
+    "policia_involucrado": "-",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.19949,-31.36720]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g4",
+    "Nombre": "Abel Cortés",
+    "Edad": 26,
+    "Año": 2024,
+    "Fecha": "16/02/2024",
+    "cronica": "Abel Cortez, de 26 años, fue asesinado de un disparo en la espalda por el policía Boris Rivero, en un supuesto intento de robo de moto. El fiscal imputó al oficial por 'exceso en la legítima defensa'",
+    "Barrio": "Villa Adela, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "Oficial Boris Rivero. Imputado, pero en libertad.",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.24809,-31.43501]
+  }
+},
+
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g5",
+    "Nombre": "Rodrigo Sebastián Arce",
+    "Edad": 19,
+    "Año": 2024,
+    "Fecha": "06/4/2024",
+    "cronica": "Rodrigo Sebastián Arce, de 19 años, fue asesinado por un policía retirado durante un supuesto intento de robo.",
+    "Barrio": "Barrio Ciudad de Mis Sueños, Córdoba",
+    "Direccion": "SIN DATOS",
+    "link": "",
+    "policia_involucrado": "Ex oficial (nombre no trascendido). Imputado y en libertad.",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.09383,-31.47381]
+  }
+},
+
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g6",
+    "Nombre": "Braian Quinteros",
+    "Edad": 17,
+    "Año": 2024,
+    "Fecha": "17/05/2024",
+    "cronica": "Braian Quinteros, de 17 años, fue asesinado por un oficial de la Policía de Córdoba fuera de servicio durante un intento de robo.",
+    "Barrio": "Barrio General Bustos, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "Oficial (nombre no trascendido). Imputado y en libertad.",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.17102,-31.39528]
+  }
+},
+
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g7",
+    "Nombre": "Mariano Savioli",
+    "Edad": 17,
+    "Año": 2024,
+    "Fecha": "28/05/2024",
+    "cronica": "Mariano Savioli, de 17 años, murió tras ser embestido por un vehículo durante una persecución policial. Hay sospechas de disparos por parte de la policía.",
+    "Barrio": "Barrio Primero de Mayo, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.11929,-31.43255]
+  }
+},
+
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g8",
+    "Nombre": "Agustín García",
+    "Edad": 19,
+    "Año": 2024,
+    "Fecha": "18/07/2024",
+    "cronica": "Agustín García, de 19 años, fue asesinado por Emilio Andreani, sargento del Comando de la Segunda División Militar, durante un supuesto intento de robo. Andreani se encuentra en libertad.",
+    "Barrio": "Barrio Las Palmas, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "Sargento Emilio Andreani",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.23881,-31.40444]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g9",
+    "Nombre": "Elías Moreno",
+    "Edad": 15,
+    "Año": 2024,
+    "Fecha": "10-03-2024",
+    "cronica": "Elías Moreno, de 15 años, murió tras ser embestido por un móvil policial durante una persecución. Posteriormente, fue brutalmente golpeado por los oficiales, resultando en su muerte dos días después en el hospital.",
+    "Barrio": "Talleres Sud, Córdoba",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "Oficiales Marcelo Peralta y Rodrigo Gorosito",
+    "fuerza_involucrada": "Policía de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.14106,-31.43959]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g11",
+    "Nombre": "Jonatan Romo",
+    "Edad": 35,
+    "Año": 2022,
+    "Fecha": "14-06-2022",
+    "cronica": "Fue detenido mientras sufría una crisis psicótica y llevado a la comisaría departamental, donde murió por 'asfixia mecánica'.",
+    "Barrio": "La Falda",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "sargentos Miguel Ángel Aguilera y Walter Geri; los cabos Juan Pablo Zunino y Hernán Suárez [el subcomisario Pablo Antonio Zárate y el agente Lucas Giménez]",
+    "fuerza_involucrada": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.48362,-31.09335]
+  }
+},
+
+{
+    "type": "Feature",
+    "properties": {
+      "Contador": "g12",
+      "Nombre": "Damián Pérez",
+      "Edad": "",
+      "Año": 2024,
+      "Fecha": "2014",
+      "cronica": "Damián Pérez, joven cordobés de Barrio Güemes fue fusilado por la Policía de Córdoba en el año 2014, quedando hemipléjico hasta marzo del 2022, cuando finalmente falleció luego de intentar recomponer su salud durante ocho años.",
+      "Barrio": "Centro, Córdoba",
+      "Direccion": "Emilio Achával y Marcelo T. de Alvear",
+      "link": "-",
+      "policia_involucrado": "cabo Mariano Andrés Martínez - Condenado (4 años)",
+      "fuerza_involucrada": "Policia de Córdoba"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-64.19327,-31.42389]
+    }
+  },
+
+
+  {
+    "type": "Feature",
+    "properties": {
+      "Contador": "g13",
+      "Nombre": "Lucas Rudzicz",
+      "Edad":13,
+      "Año": 2016,
+      "Fecha": "2016",
+      "cronica": "El fusilamiento de Lucas de 13 años se produjo en 2016 cuando el sargento Murúa se desempeñaba como custodio del mediático cura cordobés Mariano Oberlín. La sentencia finalmente de apenas dos años de prisión sin cumplimiento efectivo ha indignado a lxs familiares y asistentes al juicio.",
+      "Barrio": "Barrio Müller, Córdoba",
+      "Direccion": "Emilio Achával y Marcelo T. de Alvear",
+      "link": "-",
+      "policia_involucrado": "policía Armando Martín Murúa - Condena (2 años)",
+      "fuerza_involucrada": "Policia de Córdoba"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-64.14031,-31.41142]
+    }
+  },
+
+
+  {
+    "type": "Feature",
+    "properties": {
+      "Contador": "g14",
+      "Nombre": "Lucas Funes",
+      "Edad":24,
+      "Año": 2024,
+      "Fecha": "14-12-2012",
+      "cronica": "Bajo el supuesto delito de 'robo a mano armada', oficiales de la unidad de investigaciones, de la patrulla y la motorizada, tras perder el rastro de Sergio, quien se divide de su hermano, comienzan una cacería dirigida a Lucas, a quién siguen por techos y veredas durante cuatro cuadras, disparándole balas de goma, hiriéndolo en su parte inferior. Luego, es fusilado con dos balazos de plomo",
+      "Barrio": "Monte Grande, Río Tercero",
+      "Direccion": "Emilio Achával y Marcelo T. de Alvear",
+      "link": "-",
+      "policia_involucrado": "Luciano Carnero - Absuelto",
+      "fuerza_involucrada": "Policia de Córdoba"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates":  [-64.14238,-32.16194]
+    }
+  },
+
+
+  {
+    "type": "Feature",
+    "properties": {
+      "Contador": "g15",
+      "Nombre": "Mirta Selva",
+      "Edad":50,
+      "Año": 2014,
+      "Fecha": "03-11-2014",
+      "cronica": "Arrojaron una molotov contra su vivienda, provocando su fallecimiento, así como quemaduras en el cuerpo de las sobrevivientes, Nahuel (21), Lucia (12), y una amiga de la familia, Estefanía (22).",
+      "Barrio": "Río Tercero",
+      "Direccion": "Emilio Achával y Marcelo T. de Alvear",
+      "link": "-",
+      "policia_involucrado": "policías Ezequiel Vidaurre y Cristian Ahumada - Absuelto",
+      "fuerza_involucrada": "Policia de Córdoba"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-64.12848,-32.17417]
+    }
+  },
+
+{
+  "type": "Feature",
+  "properties": {
+    "Contador": "g16",
+    "Nombre": "Alejandro Villalón",
+    "Edad":30,
+    "Año": 2014,
+    "Fecha": "03-11-2014",
+    "cronica": "Arrojaron una molotov contra su vivienda, provocando su fallecimiento, así como quemaduras en el cuerpo de las sobrevivientes, Nahuel (21), Lucia (12), y una amiga de la familia, Estefanía (22).",
+    "Barrio": "Río Tercero",
+    "Direccion": "Emilio Achával y Marcelo T. de Alvear",
+    "link": "-",
+    "policia_involucrado": "policías Ezequiel Vidaurre y Cristian Ahumada - Absuelto",
+    "fuerza_involucrada": "Policia de Córdoba"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.12848,-32.17417]
+  }
+},
+
+
+{
+    "type": "Feature",
+    "properties": {
+    "Contador": "g17",
+    "Nombre": "Yamil Malizia",
+    "Edad":16,
+    "Año": 2018,
+    "Fecha": "07-11-2018",
+    "cronica": "El joven fue arrinconado y no tuvo escapatoria que chocar de frente contra un vehículo. La justicia local determinó que fue un 'accidente de tránsito' y la archivó.",
+    "Barrio": "Media Luna, Río Tercero",
+    "Direccion": "-",
+    "link": "-",
+    "policia_involucrado": "-",
+    "fuerza_involucrada": "-"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -64.11256, -32.16475]
+  }
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g17",
+  "Nombre": "Blas Correa",
+  "Edad":17,
+  "Año": 2020,
+  "Fecha": "06-08-2020",
+  "cronica": "Ya de regreso, los jóvenes cruzaron las vías y se internaron en la avenida Vélez Sársfield. Fue entonces que a la altura del Pablo Pizzurno, se toparon de frente con un control policial. El conductor del Argo declararía después que se asustó cuando uno de los policías, Lucas Gómez, lo apuntó de frente con su pistola reglamentaria. Lejos de frenar, aceleró. Fue entonces que una lluvia de seis balazos policiales impactaron contra el auto en el que iban los adolescentes, amigos del colegio. Uno de ellos, atravesó por la espalda a Valentino Blas Correas (17) que viajaba en el medio del asiento trasero. Y lo mató.",
+  "Barrio": "Frente al Pizzurno",
+  "Direccion": "Frente al Pizzurno",
+  "link": "-",
+  "policia_involucrado": "policías Lucas Damián Gómez y Javier Catriel Alarcón - Condenado Perpetua",
+  "fuerza_involucrada": "Policia de Córdoba"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-64.19689, -31.44131]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g18",
+  "Nombre": "Gustavo Calderón",
+  "Edad":21,
+  "Año": 2021,
+  "Fecha": "15-02-2021",
+  "cronica": "Víctor Gustavo Calderón, joven de 21 años, fue acribillado de trece disparos a quemarropa por un efectivo policial que se encontraba vestido de civil en el momento del hecho. Sucedió en la zona de los barrios Parque de la Vega 3 y Las Violetas, en el oeste de la capital cordobesa el 15 de febrero de 2021.",
+  "Barrio": "Parque de la Vega III, Córdoba",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "Franco Paglino - Absuelto",
+  "fuerza_involucrada": "Policia de Córdoba"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-64.25943,-31.40922]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g19",
+  "Nombre": "Facundo Rivera Alegre",
+  "Edad":19,
+  "Año": 2012,
+  "Fecha": "19-02-2012",
+  "cronica": "El 19 de febrero de 2012, 'El rubio del Pasaje' desapareció después de ir al baile de Damián Córdoba. El mismo día, Viviana recibió un mensaje de texto con la leyenda: “no lo vas a encontrar jamás”.",
+  "Barrio": "Juniors, Córdoba",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "-",
+  "fuerza_involucrada": "Policia de Córdoba"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-64.19943,-31.40543]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g21",
+  "Nombre": "Emiliano Sosa",
+  "Edad":23,
+  "Año": 2021,
+  "Fecha": "27-08-2021",
+  "cronica": "-",
+  "Barrio": "Puente 15 y Menéndez Pidal",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "Martín Vallejos - Sobreseído - Homicidio calificado",
+  "fuerza_involucrada": "-"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-0, -0]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g23",
+  "Nombre": "Isaías Luna",
+  "Edad":21,
+  "Año": 2020,
+  "Fecha": "18-12-2020",
+  "cronica": "Los responsables fueron juzgados en la Cámara 5º del Crimen de la ciudad con jurados populares. Seis de ellos estaban acusados por falso testimonio y encubrimiento agravado, ya que plantaron un arma en la mano derecha del joven, siendo que él era zurdo, y el señalado por disparar y dar muerte a Luna estaba imputado por uso excesivo de la fuerza.",
+  "Barrio": "Urca, Córdoba",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "Ariel Esteban Adavid - Condenado (1 año y 6 meses - s/inhabilitación) - Uso excesivo de la fuerza",
+  "fuerza_involucrada": "-"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-64.23718,-31.38396 ]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g23",
+  "Nombre": "Joaquín Paredes",
+  "Edad":15,
+  "Año": 2020,
+  "Fecha": "25-10-2020",
+  "cronica": "Paredes había estado comiendo pizza con unos amigos en una casa y, luego, ya de madrugada, siguieron la “juntada” en la plaza del pueblo, “tomando vino y escuchando música”. En ese momento recibió por la espalda los disparos policiales. Los otros jóvenes contaron que los policías se bajaron de un patrullero “como locos, gritando y guapeando”.",
+  "Barrio": "Paso Viejo, Córdoba",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "Maikel López - Condenado (perpetua) - Homicidio agravado y calificado",
+  "fuerza_involucrada": "-"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-65.18958,-30.76740]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g24",
+  "Nombre": "Jorge Reyna",
+  "Edad":17,
+  "Año": 2013,
+  "Fecha": "26-10-2013",
+  "cronica": "Jorgito tenía golpes. Había sido brutalmente tratado y la autopsia pudo demostrarlo. Sin embargo, para la policía el joven se había suicidado ahorcándose con la manga de su campera, atada a una reja de la celda que estaba a 1,50 metros del suelo, teniendo Jorgito una altura de 1,60.",
+  "Barrio": "Capilla del Monte",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "-",
+  "fuerza_involucrada": "-"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [ -64.52771,-30.85761]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g25",
+  "Nombre": "Rodrigo Sánchez",
+  "Edad":17,
+  "Año": 2013,
+  "Fecha": "19-09-2015",
+  "cronica": "El joven que estaba con Rodrigo en el momento del asesinato ratificó el accionar de Carranza: el policía, de civil, sin identificarse y sin dar voz de alto, disparó alrededor de cinco veces, a dos metros de distancia y apuntándole directamente a la espalda.",
+  "Barrio": "Av. Colón y Sagrada Familia",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "Lucas Carranza - Condenado (3 años) - condicional - Homicidio culposo ",
+  "fuerza_involucrada": "-"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-64.23558,-31.39761]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g26",
+  "Nombre": "Sergio Cuello",
+  "Edad":28,
+  "Año": 2017,
+  "Fecha": "27-06-2017",
+  "cronica": "Supimos, como suponíamos, que no hubo tiroteo, que no hubo arma disparada en manos de Sergio, que no hubo legítima defensa. Hubo nueve disparos de armas reglamentarias contra un cuerpo de espalda, que siguieron impactando pese a estar ya tendido en el suelo.",
+  "Barrio": "Entre Ríos y Río Primero, en barrio Altamira",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "Franco Ezequiel Calderón y Esteban Emanuel Carrizo - Sobreseídos - Homicidio agravado",
+  "fuerza_involucrada": "-"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-64.13247, -31.42575 ]
+}
+},
+
+{
+  "type": "Feature",
+  "properties": {
+  "Contador": "g27",
+  "Nombre": "Franco Amaya",
+  "Edad":18,
+  "Año": 2017,
+  "Fecha": "22-02-2017",
+  "cronica": "Se dirigía en moto hacia su casa, junto con su primo, para cambiarse la camisa y salir a bailar. En el control policial del puente Los Gigantes, a metros del centro de Carlos Paz, el policía Rodrigo Maximiliano Velardo Bustos, de 26 años, le disparó en la espalda.",
+  "Barrio": "Entre Ríos y Río Primero, en barrio Altamira",
+  "Direccion": "-",
+  "link": "-",
+  "policia_involucrado": "Rodrigo Maximiliano Velardo Bustos - Condenado (12 años) - Homicidio agravado",
+  "fuerza_involucrada": "-"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [-64.51260, -31.43333 ]
+}
+}
+
+]}
+
+

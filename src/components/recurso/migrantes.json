@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "CAREF",
+      "content": "Asociación civil sin fines de lucro que trabaja por los derechos de las personas migrantes, refugiadas y solicitantes de asilo desde 1973",
+      "Teléfono": "(+54 11) 4613 7362 / 4992 - (+54 9 11) 5797 3566 ",
+      "link": "https://caref.org.ar/",
+      "Dirección": "Juan Bautista Alberdi 2236, CABA, Argentina.",
+      "Email":"caref@caref.org.ar"
+    },
+    {
+      "title": "ACNUR",
+      "content": "ACNUR lidera los esfuerzos internacionales por proteger a las personas forzadas a huir de conflictos y persecuciones, así como personas a las que se les ha negado una nacionalidad.",
+      "Email": "info@fundacionacnur.org",
+      "Teléfono": "0800-345-2444",
+      "link": "https://www.acnur.org/"
+    },
+    {
+      "title": "NUEVO PERÚ",
+      "content": "Organización política de migrantes peruanxs en Argentina.",
+      "Email": "movimientonuevoperuargentina@gmail.com",
+      "Teléfono": "11-5962-8430",
+      "link": " https://www.instagram.com/nuevoperubuenosaires/"
+    },
+    {
+      "title": "LA PODEROSA",
+      "content": "Organización villera en Argentina",
+      "Email": "lagargantapoderosa@gmail.com",
+      "link": " https://lapoderosa.org.ar/"
+    },
+    
+    {
+      "title": "AMUMRA",
+      "content": "Asociación Civil de Derechos Humanos Mujeres Unidas Migrantes y Refugiadas en Argentina",
+      "Teléfono": "11-6330-0000",
+      "Email": "consultas.amumra@gmail.com",
+      "link": "https://www.instagram.com/amumraddhh/"
+    }
+  ]
+}
