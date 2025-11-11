@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Icons from "../iconos/Icons";
 
 const Navbar = () => {
-  const iconList = ["denuncias", "recursos", "investigaciones", "menu"];
+  const iconList = ["denuncias", "recursos", "menu"]; //, "investigaciones"
 
   return (
     <section id="NavBar" className={styles.Navbar}>

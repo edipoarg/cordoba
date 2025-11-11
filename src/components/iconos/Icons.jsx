@@ -1,5 +1,7 @@
 import { VscTools } from "react-icons/vsc";
-import { BiBookReader, BiWorld, BiVideoRecording } from "react-icons/bi";
+import { BiBookReader, BiVideoRecording } from "react-icons/bi";
+import { AiOutlineQuestionCircle } from "react-icons/ai";
+
 import {
   TbAlertTriangle,
   TbZoomExclamation,
@@ -54,7 +56,7 @@ const iconComponents = {
   detencion: <FaPersonMilitaryToPerson />,
   guia: <GiNotebook />,
   ambulantes: <TbShoppingBagX />,
-  migrantes: <BiWorld />,
+  migrantes: <AiOutlineQuestionCircle />,
   filmar: <BiVideoRecording />,
 
   /* investigaciones */

@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import RecursoPost from "./RecursoPost";
-import migrantesData from "./migrantes.json";
-import ambulantesData from "./ambulantes.json";
+import desaparecidosData from "./desaparecidos.json";
+//import ambulantesData from "./ambulantes.json";
 import filmarData from "./filmar.json";
 import generoData from "./genero.json";
 import institucionalesData from "./institucionales.json";
@@ -45,8 +45,8 @@ const Recurso = () => {
       // Elegir el archivo JSON según el dominio
       let data;
       switch (dominio) {
-        case "migrantes":
-          data = migrantesData;
+        case "desaparecidos":
+          data = desaparecidosData;
           break;
        // case "ambulantes":
          //data = ambulantesData;
