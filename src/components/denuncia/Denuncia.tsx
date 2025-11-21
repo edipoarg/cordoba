@@ -160,7 +160,7 @@ const Denuncia = () => {
         <section className={styles.denunciaTitles}>
           {/*<h2>Quiero Denunciar</h2>
           <h4>Un hecho de violencia policial</h4>*/}
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRmoyvGCzTN_cBL9No3HiT4YOiTN23BdfCl8cVNzREz-dKAw/viewform?embedded=true" width="640" height="4500" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>          
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRmoyvGCzTN_cBL9No3HiT4YOiTN23BdfCl8cVNzREz-dKAw/viewform?embedded=true" width="640" height="4500" frameBorder="0" marginheight="0" marginwidth="0">Cargando…</iframe>          
         {/*</section>
 
         <section className={styles.denunciaForm}>

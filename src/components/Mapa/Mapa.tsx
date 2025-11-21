@@ -53,15 +53,12 @@ const Mapa = () => {
       zoom: 10,
       minZoom: 1,
       maxZoom: 25,
-     /* maxBounds: [
-        [-64.3, -31.5],
-        [-64.1, -31.3],
-      ],*/
-    },
- maxBounds: [
+       maxBounds: [
       [-67.0, -34.6],   // suroeste (más ancho y más abajo)
       [-61.7, -28.7]    // noreste (más ancho y más arriba)
     ],
+    },
+
     style: {
       width: "100vw",
       height: "100vh",
