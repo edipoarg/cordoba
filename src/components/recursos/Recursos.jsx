@@ -13,7 +13,7 @@ const recursosItems = [
   { path: "guia", icon: "guia", nombre: "Guía Básica" },
   { path: "genero", icon: "genero", nombre: "Recursos de Género" },
   //{ path: "ambulantes", icon: "ambulantes", nombre: "Recursos Ambulantes" },
-  { path: "desaparecidos", icon: "migrantes", nombre: "Guia basica por si desaparecen a alguien" },
+   { path: "desaparecidos", icon: "migrantes", nombre: "Guía básica por si alguien no aparece" },
   { path: "filmar", icon: "filmar", nombre: "Cómo Filmar" },
 ];
 

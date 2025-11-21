@@ -31,7 +31,7 @@ export default function Filtros({ currentFilter, handleFilterChange }) {
         onClick={() => handleFilterChange("gatillo")}
       >
         <Icons icon="gatillo" />
-        <h4 className={styles.tipoClass}> Gatillo Fácil</h4>
+        <h4 className={styles.tipoClass}>Intervenciones policiales letales</h4>
       </div>
     </div>
   );

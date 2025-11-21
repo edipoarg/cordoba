@@ -42,7 +42,7 @@ const iconComponents = {
   podcast: <HiOutlineMusicalNote />,
   jefatura: <BsDiagram3 />,
   contacto: <SiMaildotru />,
-  gatillo: <GiGunshot />,
+  letalidad: <GiGunshot />,
   menu: <IoAppsOutline />,
   AHORA: <RiSdCardLine />,
 

@@ -8,7 +8,7 @@ export const DepsSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
+        "fill-opacity": 1.8,
         "fill-outline-color": "#9423ed",
       }}
     />
@@ -36,8 +36,8 @@ export const  DistritosCordobaSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
-        "fill-outline-color": "#9423ed",
+        "fill-opacity": 0.4,
+        "fill-outline-color": "#16eb13ff",
       }}
     />
   </Source>
@@ -50,8 +50,8 @@ export const  LimitesComisariasSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
-        "fill-outline-color": "#9423ed",
+        "fill-opacity": 2.0,
+        "fill-outline-color": "#23ed52ff",
       }}
     />
   </Source>
@@ -65,7 +65,7 @@ export const  BarriosCordobaSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
+        "fill-opacity": 0.2,
         "fill-outline-color": "#9423ed",
       }}
     />
