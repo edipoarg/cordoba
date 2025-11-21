@@ -8,7 +8,7 @@ export const DepsSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
+        "fill-opacity": 0.3,
         "fill-outline-color": "#9423ed",
       }}
     />
@@ -22,7 +22,7 @@ export const  CordobaSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
+        "fill-opacity": 0.3,
         "fill-outline-color": "#9423ed",
       }}
     />
@@ -36,7 +36,7 @@ export const  DistritosCordobaSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
+        "fill-opacity": 0.3,
         "fill-outline-color": "#9423ed",
       }}
     />
@@ -50,7 +50,7 @@ export const  LimitesComisariasSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
+        "fill-opacity": 0.3,
         "fill-outline-color": "#9423ed",
       }}
     />
@@ -65,7 +65,7 @@ export const  BarriosCordobaSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "#232128",
-        "fill-opacity": 0.8,
+        "fill-opacity": 0.5,
         "fill-outline-color": "#9423ed",
       }}
     />
@@ -94,7 +94,7 @@ export const CabaSource = ({ data }) => (
       type="fill" // Capa de relleno para representar polígonos
       paint={{
         "fill-color": "rgba(255, 255, 255, 0)",
-        "fill-opacity": 1,
+        "fill-opacity": 0.5,
         "fill-outline-color": "#9423ed",
       }}
     />
@@ -107,7 +107,7 @@ export const LaPlataSource = ({ data }) => (
       type="fill"
       paint={{
         "fill-color": "rgba(255, 255, 255, 0)",
-        "fill-opacity": 1,
+        "fill-opacity": 0.8,
         "fill-outline-color": "#9423ed",
       }}
     />
