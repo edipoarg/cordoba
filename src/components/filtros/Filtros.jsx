@@ -2,7 +2,7 @@
 import styles from "./Filtros.module.css";
 import Icons from "../iconos/Icons";
 
-/** @typedef {"reportes" | "dependencias" | "gatillo" | "all"} Filtro */
+/** @typedef {"dependencias" | "gatillo" | "all"} Filtro */
 
 /** @type {({currentFilter, handleFilterChange } : { currentFilter: Filtro, handleFilterChange: (f: Filtro) => void; }) => react.JSX.Element} */
 export default function Filtros({ currentFilter, handleFilterChange }) {
@@ -18,13 +18,6 @@ export default function Filtros({ currentFilter, handleFilterChange }) {
         <h4 className={styles.tipoClass}>Comisarías </h4>
       </div>
 
-      <div
-        className={`${styles.tipo3Ref} ${currentFilter === "reportes" ? styles.selected : ""}`}
-        onClick={() => handleFilterChange("reportes")}
-      >
-        <Icons icon="reportes" />
-        <h4 className={styles.tipoClass}> Reportes </h4>
-      </div>
 
       <div
         className={`${styles.tipo3Ref} ${currentFilter === "gatillo" ? styles.selected : ""}`}

@@ -43,6 +43,7 @@ const Denuncias = () => {
                 Si querés, podés mantener el anonimato. Y solo publicaremos la
                 fuente, en el caso de que vos nos autorices.
               </h4>
+           
             </section>
 
             <Link to="/reportes">

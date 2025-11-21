@@ -6,5 +6,10 @@ import cordoba from  "./departamentos-cordoba.json";
 import barriosCordoba from  "./barrios-cordoba.json";
 import distritosCordoba from "./distritos-cordoba.json";
 import limitesComisarias from "./limitesComisarias.json";
+import gatilloCba from "./gatilloCba.json"
 
-export { departamentos, caba, barriosCaba, laPlata, cordoba, barriosCordoba, distritosCordoba, limitesComisarias };
+
+
+
+
+export { departamentos, caba, barriosCaba, laPlata, cordoba, barriosCordoba, distritosCordoba, limitesComisarias, gatilloCba };

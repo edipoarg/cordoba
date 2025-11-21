@@ -12,10 +12,10 @@ const GatilloFacil = () => {
   const cases = casesData.features;
 
   return (
-    <>
+    <>  
       <section className={styles.gatilloContainer}>
         <section className={styles.header}>
-          <h4 className={styles.title}>Gatillo Fácil ({cases.length} casos)</h4>
+          <h4 className={styles.title}>Gatillo Fácil CBA({cases.length} casos)</h4>
           <Icons
             icon={"reportes"}
             className={styles.headerIcon}

@@ -30,7 +30,7 @@ const getEmptyRequiredFieldsError = (
   if (
     !fecha ||
     !hora ||
-    !lugar ||
+    !lugar || 
     !descripcion ||
     !nombre ||
     !telefono ||
@@ -150,16 +150,18 @@ const Denuncia = () => {
         "Hubo un error al enviar la denuncia. Por favor intenta nuevamente más tarde.",
       );
     }
+
   };
 
-  return (
+  return ( 
     <>
       <div className={`${styles.spinnerContainer} ${styles.active}`}></div>
       <section className={styles.denunciaContainer}>
         <section className={styles.denunciaTitles}>
-          <h2>Quiero Denunciar</h2>
-          <h4>Un hecho de violencia policial</h4>
-        </section>
+          {/*<h2>Quiero Denunciar</h2>
+          <h4>Un hecho de violencia policial</h4>*/}
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRmoyvGCzTN_cBL9No3HiT4YOiTN23BdfCl8cVNzREz-dKAw/viewform?embedded=true" width="640" height="4500" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>          
+        {/*</section>
 
         <section className={styles.denunciaForm}>
           <h3>I. LUGAR Y FECHA</h3>
@@ -293,7 +295,8 @@ const Denuncia = () => {
 
           <button type="button" onClick={handleSubmit} disabled={isSending}>
             Enviar
-          </button>
+          </button> 
+         */}
         </section>
       </section>
     </>

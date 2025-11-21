@@ -27,4 +27,15 @@ initializeAppCheck(app, {
   isTokenAutoRefreshEnabled: true,
 });
 
+//AGREGADO RECIENMENTE
+const isDevelopment = process.env.NODE_ENV === "development";
+
+// Inicializa AppCheck solo en producción
+if (!isDevelopment) {
+  const appCheck = initializeAppCheck(firebaseApp, {
+    provider: new ReCaptchaV3Provider(`${reCaptchaKey}`),
+    isTokenAutoRefreshEnabled: true,
+  });
+}
+// HASTA ACÁ  
 export { storage, ref, uploadBytes, getDownloadURL };

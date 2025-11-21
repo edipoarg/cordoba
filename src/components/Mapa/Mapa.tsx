@@ -10,22 +10,13 @@ import styles from "./Mapa.module.css";
 
 // GEOJSON IMPORTS
 import {
-  departamentos,
-  caba,
-  barriosCaba,
   cordoba,
   barriosCordoba,
   distritosCordoba,
-  laPlata,
-  limitesComisarias,
+  limitesComisarias
 } from "./geojson-data/index";
 
 import {
-  DepsSource,
-  CabaSource,
-  BarriosCabaSource,
-  LaPlataSource,
-  DepartamentosLaPlataSource,
   CordobaSource,
   BarriosCordobaSource,
   DistritosCordobaSource,
@@ -35,7 +26,6 @@ import {
 // MARKERS IMPORTS
 import DependenciasMarkers from "../dependenciasMarkers/DependenciasMarkers";
 import GatilloMarkers from "../gatilloMarkers/GatilloMarkers";
-import ReportesMarkers from "../reportesMarkers/ReportesMarkers";
 
 //Filtros Import
 import Filtros from "../filtros/Filtros";
@@ -43,10 +33,9 @@ import { Caso } from "../../models/casos";
 import {
   CasosDependenciaContext,
   CasosGatilloContext,
-  CasosReportesContext,
 } from "../../routes/Root";
 
-type Filtro = "reportes" | "dependencias" | "gatillo" | "all";
+type Filtro = "dependencias" | "gatillo" | "all";
 
 const Mapa = () => {
   const [currentFilter, setCurrentFilter] = useState<Filtro>("all");
@@ -69,6 +58,10 @@ const Mapa = () => {
         [-64.1, -31.3],
       ],*/
     },
+ maxBounds: [
+      [-67.0, -34.6],   // suroeste (más ancho y más abajo)
+      [-61.7, -28.7]    // noreste (más ancho y más arriba)
+    ],
     style: {
       width: "100vw",
       height: "100vh",
@@ -96,21 +89,16 @@ const Mapa = () => {
   const [selectedCase, setSelectedCase] = useState<Caso | null>(null);
 
   const casosDependencia = useContext(CasosDependenciaContext);
-  const casosReportes = useContext(CasosReportesContext);
   const casosGatillo = useContext(CasosGatilloContext);
 
   if (
     casosDependencia === "loading" ||
-    casosReportes === "loading" ||
     casosGatillo == "loading"
   )
     return <p>Cargando...</p>;
 
   if (casosDependencia === null)
     return <p>Ocurrió un error al cargar los datos de dependencias</p>;
-
-  if (casosReportes === null)
-    return <p>Ocurrió un error al cargar los datos de reportes</p>;
 
   if (casosGatillo === null)
     return <p>Ocurrió un error al cargar los casos de gatillo fácil</p>;
@@ -155,15 +143,10 @@ const Mapa = () => {
 
         <MapGL id="mapa" mapLib={maplibregl} {...mapProps}>
           <NavigationControl position="top-right" />
-          <DepsSource data={departamentos} />
-          <BarriosCabaSource data={barriosCaba} />
-          <CabaSource data={caba} />
           <CordobaSource data={cordoba}/>
           <BarriosCordobaSource data={barriosCordoba}/>
           <DistritosCordobaSource data={distritosCordoba}/>
           <LimitesComisariasSource data={limitesComisarias}/>
-          <LaPlataSource data={laPlata} />
-          <DepartamentosLaPlataSource data={laPlata} />
 
           {/* Renderiza los marcadores de las dependencias */}
           {(currentFilter === "all" || currentFilter === "dependencias") && (
@@ -184,14 +167,7 @@ const Mapa = () => {
             />
           )}
 
-          {(currentFilter === "all" || currentFilter === "reportes") && (
-            <ReportesMarkers
-              dataDeReportes={casosReportes}
-              setSelectedCase={setSelectedCase}
-              setMarker={setSelectedMarkerId}
-              selected={selectedMarkerId}
-            />
-          )}
+     
         </MapGL>
         <LogoMapa />
       </section>

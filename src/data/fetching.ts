@@ -31,7 +31,7 @@ export const getDataDeCasosReportes =
 
 export const getDataDeCasosGatillo =
   async (): Promise<DataDeCasos<CasoGatillo> | null> => {
-    const response = await fetch("data/gatilloCaba.json");
+    const response = await fetch("data/gatilloCba.json");
     const data: DataDeCasos<CasoGatillo> | undefined = await response.json();
     return data ?? null;
   };

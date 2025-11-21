@@ -48,9 +48,9 @@ const Recurso = () => {
         case "migrantes":
           data = migrantesData;
           break;
-        case "ambulantes":
-          data = ambulantesData;
-          break;
+       // case "ambulantes":
+         //data = ambulantesData;
+          //break;
         case "filmar":
           data = filmarData;
           break;
