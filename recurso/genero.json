@@ -1,0 +1,60 @@
+{
+    "posts": [
+      {
+        "title": "FISCALÍAS DE VIOLENCIA DE GÉNERO",
+        "subtitle": "Fiscalía de Instrucción de Delitos contra la Integridad Sexual de Primer Turno",
+        "Teléfono": "(0351) 4266800 – 4266900, Internos: 15862/6",
+        "Email": "violenciadegenero@jursoc.unlp.edu.ar",
+        "content": "Por teléfono, por la web o te podés dirigir directamente a las fiscalías especializadas en violencia de género.",
+        "link": " https://denuncias.fiscalias.gob.ar/",
+        "Dirección" : " Fructuoso Rivera n° 720, B° Observatorio Córdoba  – Palacio de Tribunales II",
+        "Fiscal": "AVILA ECHENIQUE, Juan Fernando"
+      },
+      {
+        "title": "FISCALÍAS DE VIOLENCIA DE GÉNERO",
+        "subtitle": "Fiscalía de Instrucción de Delitos contra la Integridad Sexual de Segundo Turno",
+        "Dirección": " Fructuoso Rivera n° 720, B° Observatorio Córdoba  – Palacio de Tribunales II",
+        "content": "Por teléfono, por la web o te podés dirigir directamente a las fiscalías especializadas en violencia de género.",
+        "link": "https://www.mpfcordoba.gob.ar/de-delitos-contra-la-integridadsexual/",
+        "Fiscal": " VAGO, Ingrid",
+        "Teléfono":"(0351) 4266800 – 4266900, Internos: 16062/3"
+      },
+      {
+        "title": "Línea 137",
+        "subtitle": "para llamadas telefónicas",
+        "Teléfono": "137",
+        "content": "Brinda atención a víctimas de violencia familiar y sexual. Podes llamar para que te acompañen a radicar la denuncia en cualquiera de estos espacios, para que cuentes con contención y no estés sola. Con la denuncia podés solicitar medidas de protección tales como una restricción perimetral, botón antipánico, exclusión del hogar, entre otras.",
+        "link": "https://www.argentina.gob.ar/tema/violenciayabuso"
+      },
+      {
+        "title": "Línea 144",
+        "subtitle": "para llamadas telefónicas",
+        "Teléfono": "Comunicate gratis las 24hs a la línea 144.",
+        "content": "Para recibir asesoramiento y consultar por oficinas receptoras de denuncias en otros lugares del país.",
+        "WhatsApp": "1127716463"
+      },
+      {
+        "title": "OFICINA DE VIOLENCIA DOMÉSTICA",
+        "Teléfono": "(0351) 4481616 – Int. 30641/2",
+        "content": "Intervendrá en los hechos derivados de la violencia de género, familiar o doméstica que por su gravedad y/o complejidad requieran el tratamiento por parte del personal especializado en las distintas disciplinas que la abordan.",
+        "link": " https://www.justiciacordoba.gob.ar/justiciacordoba/tsj/coordinacion_violencia_familiar",
+        "Email": "-",
+        "Dirección":"Entre Ríos 680, Bº Centro, ciudad de Córdoba (emplazada en el Polo Integral de la Mujer)"
+      },
+      {
+        "title": "DEFENSA PÚBLICA",
+        "link": "https://defensapublicacba.gob.ar/paginas/defensa_publica/quienes_somos.html",
+        "content":"La Defensa Pública está integrada por un cuerpo de profesionales con alta calificación y vocación de servicio que han sido seleccionados mediante concurso público. Su tarea consiste en asesorar, defender, patrocinar y representar ante los tribunales provinciales, nacionales e internacionales a quienes no tienen los medios económicos para contratar los servicios de una defensa particular, a las niñas, niños y adolescentes, a las víctimas en los contextos de violencia familiar, entre otros."
+      },
+      {"title":"FISCALÍAS DE GÉNERO CABA",
+      "link":"https://mpfciudad.gob.ar/tematicas/2020-03-09-21-42-38-violencia-de-genero",
+      "Email": "denuncias@fiscalias.gob.ar",
+      "content":"Cuenta con equipos especializados de violencia de género CABA / Denuncia presencial de lunes a viernes de 9 a 20hs."
+    },
+    {
+      "title": "ESPACIOS DE CERCANÍA",
+      "content": "Podés buscar asistencia y espacios de denuncia cercanos a tu domicilio en: https://www.argentina.gob.ar/tema/violenciayabuso"
+    }
+    ]
+  }
+  
