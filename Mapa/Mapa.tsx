@@ -10,15 +10,22 @@ import styles from "./Mapa.module.css";
 
 // GEOJSON IMPORTS
 import {
-
+  departamentos,
+  caba,
+  barriosCaba,
   cordoba,
   barriosCordoba,
   distritosCordoba,
+  laPlata,
   limitesComisarias
 } from "./geojson-data/index";
 
 import {
-
+  DepsSource,
+  CabaSource,
+  BarriosCabaSource,
+  LaPlataSource,
+  DepartamentosLaPlataSource,
   CordobaSource,
   BarriosCordobaSource,
   DistritosCordobaSource,
@@ -57,10 +64,10 @@ const Mapa = () => {
       zoom: 10,
       minZoom: 1,
       maxZoom: 25,
-maxBounds: [
-  [-67.5, -34.0], // sudoeste (lon, lat)
-  [-61.5, -29.0], // noreste (lon, lat)
-],
+      maxBounds: [
+        [-64.3, -31.5],
+        [-64.1, -31.3],
+      ],
     },
     style: {
       width: "100vw",
@@ -148,11 +155,16 @@ maxBounds: [
 
         <MapGL id="mapa" mapLib={maplibregl} {...mapProps}>
           <NavigationControl position="top-right" />
+          <DepsSource data={departamentos} />
+          <BarriosCabaSource data={barriosCaba} />
+          <CabaSource data={caba} />
           <CordobaSource data={cordoba}/>
           <BarriosCordobaSource data={barriosCordoba}/>
           <DistritosCordobaSource data={distritosCordoba}/>
           <LimitesComisariasSource data={limitesComisarias}/>
-    
+          <LaPlataSource data={laPlata} />
+          <DepartamentosLaPlataSource data={laPlata} />
+
           {/* Renderiza los marcadores de las dependencias */}
           {(currentFilter === "all" || currentFilter === "dependencias") && (
             <DependenciasMarkers
