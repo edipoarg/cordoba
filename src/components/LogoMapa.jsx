@@ -6,7 +6,7 @@ const LogoMapa = () => {
     <>
       <Link to="/nosotrxs">
         <section id="logoMapa" className={styles.LogoMapa}>
-          <img id="logo" className={styles.Logo} src="favicon.png" alt="" />
+          <img id="logo" className={styles.Logo} src="faviconcba.png" alt="" />
           <h3 className={styles.LogoTitulo}>
             MAPA <br />
             DE LA
